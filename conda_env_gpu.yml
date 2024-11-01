@@ -207,7 +207,7 @@ dependencies:
       - debugpy==1.8.7
       - decorator==5.1.1
       - dgl==2.1.0
-      - dgllife==0.3.2
+      - dgllife==0.3.1
       - dill==0.3.8
       - docutils==0.21.2
       - easydict==1.13
@@ -315,7 +315,7 @@ dependencies:
       - pytdc==1.1.0
       - python-dateutil==2.9.0.post0
       - python-dotenv==1.0.1
-      - python-graphviz==0.20.3
+        #    - python-graphviz
       - python-levenshtein==0.26.0
       - pytz==2024.2
       - pyzmq==26.2.0
@@ -351,11 +351,11 @@ dependencies:
       - tiledbsoma==1.11.4
       - tokenizers==0.19.1
       - tomli==2.0.2
-      - torch==2.2.1+cu121
+      - torch==2.2.1
       - torch-geometric==2.6.1
-      - torchaudio==2.2.1+cu121
+      - torchaudio==2.2.1
       - torchdata==0.9.0
-      - torchvision==0.17.1+cu121
+      - torchvision==0.17.1
       - tornado==6.4.1
       - traitlets==5.14.3
       - transformers==4.43.4
